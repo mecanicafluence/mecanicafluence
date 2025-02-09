@@ -1,13 +1,3 @@
-/*-----------------------------------*\
-  #style.css
-\*-----------------------------------*/
-
-/**
- * copyright 2022 codewithsadee
- */
-
-
-
 
 
 /*-----------------------------------*\
@@ -1250,7 +1240,7 @@ body {
     left: 0;
     width: 50%;
     height: 100%;
-    background-image: url('../images/about-abs-banner.webp');
+    background-image: url('../images/fachada.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right;
